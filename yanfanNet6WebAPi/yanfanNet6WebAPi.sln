@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanfanNet6WebAPi", "yanfanNet6WebAPi\yanfanNet6WebAPi.csproj", "{23446D26-87D7-4572-858A-341C20AD160E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{62176FE9-6398-45AB-AC4F-4015C22F5D85} = {62176FE9-6398-45AB-AC4F-4015C22F5D85}
+		{C79D4F79-AF90-44C0-934E-6C63803ABCA7} = {C79D4F79-AF90-44C0-934E-6C63803ABCA7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanfanFlower.Model", "yanfanFlower.Model\yanfanFlower.Model.csproj", "{62176FE9-6398-45AB-AC4F-4015C22F5D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanfanFlower.Common", "yanfanFlower.Common\yanfanFlower.Common.csproj", "{C3748C21-4FF2-4441-80BD-226B1177F377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanfanFlower.Service", "yanfanFlower.Service\yanfanFlower.Service.csproj", "{C79D4F79-AF90-44C0-934E-6C63803ABCA7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C3748C21-4FF2-4441-80BD-226B1177F377} = {C3748C21-4FF2-4441-80BD-226B1177F377}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23446D26-87D7-4572-858A-341C20AD160E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23446D26-87D7-4572-858A-341C20AD160E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23446D26-87D7-4572-858A-341C20AD160E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23446D26-87D7-4572-858A-341C20AD160E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62176FE9-6398-45AB-AC4F-4015C22F5D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62176FE9-6398-45AB-AC4F-4015C22F5D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62176FE9-6398-45AB-AC4F-4015C22F5D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62176FE9-6398-45AB-AC4F-4015C22F5D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3748C21-4FF2-4441-80BD-226B1177F377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3748C21-4FF2-4441-80BD-226B1177F377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3748C21-4FF2-4441-80BD-226B1177F377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3748C21-4FF2-4441-80BD-226B1177F377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79D4F79-AF90-44C0-934E-6C63803ABCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79D4F79-AF90-44C0-934E-6C63803ABCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79D4F79-AF90-44C0-934E-6C63803ABCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79D4F79-AF90-44C0-934E-6C63803ABCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86BFA1A-B048-4E2C-A3E6-D9ED87F94C43}
+	EndGlobalSection
+EndGlobal

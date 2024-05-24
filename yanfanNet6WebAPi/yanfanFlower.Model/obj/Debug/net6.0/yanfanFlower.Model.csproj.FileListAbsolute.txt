@@ -1,0 +1,12 @@
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\bin\Debug\net6.0\yanfanFlower.Model.deps.json
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\bin\Debug\net6.0\yanfanFlower.Model.dll
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\bin\Debug\net6.0\yanfanFlower.Model.pdb
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.csproj.AssemblyReference.cache
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.AssemblyInfoInputs.cache
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.AssemblyInfo.cs
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.csproj.CoreCompileInputs.cache
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.dll
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\refint\yanfanFlower.Model.dll
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\yanfanFlower.Model.pdb
+D:\net\yanfanNet6WebAPi\yanfanFlower.Model\obj\Debug\net6.0\ref\yanfanFlower.Model.dll

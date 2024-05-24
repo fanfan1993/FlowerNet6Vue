@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net\\yanfanNet6WebAPi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\user\\dto\\userreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\user\\dto\\userreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\user\\dto\\userres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\user\\dto\\userres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\user\\dto\\registerreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\user\\dto\\registerreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.common\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|solutionrelative:yanfanflower.common\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.common\\memoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|solutionrelative:yanfanflower.common\\memoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\yanfanflower.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\yanfanflower.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.common\\yanfanflower.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|solutionrelative:yanfanflower.common\\yanfanflower.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.common\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3748C21-4FF2-4441-80BD-226B1177F377}|yanfanFlower.Common\\yanfanFlower.Common.csproj|solutionrelative:yanfanflower.common\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\yanfanflower.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\yanfanflower.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\yanfannet6webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\yanfannet6webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\yanfannet6webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\yanfannet6webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\entitys\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\entitys\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\enum\\enumusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\enum\\enumusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\entitys\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\entitys\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\flower\\dto\\flowerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\flower\\dto\\flowerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.model\\entitys\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176FE9-6398-45AB-AC4F-4015C22F5D85}|yanfanFlower.Model\\yanfanFlower.Model.csproj|solutionrelative:yanfanflower.model\\entitys\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|d:\\net\\yanfannet6webapi\\yanfanflower.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D4F79-AF90-44C0-934E-6C63803ABCA7}|yanfanFlower.Service\\yanfanFlower.Service.csproj|solutionrelative:yanfanflower.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|d:\\net\\yanfannet6webapi\\yanfannet6webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23446D26-87D7-4572-858A-341C20AD160E}|yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj|solutionrelative:yanfannet6webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Program.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Program.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Program.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:52:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:26:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRes.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\UserRes.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\User\\Dto\\UserRes.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\UserRes.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\User\\Dto\\UserRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:55:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\Tools.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Common\\Tools.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\Tools.cs",
+              "RelativeToolTip": "yanfanFlower.Common\\Tools.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:08.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReq.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\UserReq.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\User\\Dto\\UserReq.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\UserReq.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\User\\Dto\\UserReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:56:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterReq.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\RegisterReq.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\User\\Dto\\RegisterReq.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\Dto\\RegisterReq.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\User\\Dto\\RegisterReq.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:49:06.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "yanfanFlower.Service.csproj",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\yanfanFlower.Service.csproj",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\yanfanFlower.Service.csproj",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\yanfanFlower.Service.csproj",
+              "RelativeToolTip": "yanfanFlower.Service\\yanfanFlower.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T02:48:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\User\\IUserService.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\IUserService.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\User\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:30:02.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:42:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoryHelper.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\MemoryHelper.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Common\\MemoryHelper.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\MemoryHelper.cs",
+              "RelativeToolTip": "yanfanFlower.Common\\MemoryHelper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:19:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\User\\UserService.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\User\\UserService.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\User\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:29:36.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\FlowerController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:47:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToolController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\ToolController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\ToolController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\ToolController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\ToolController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABOwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:24:30.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "yanfanFlower.Common.csproj",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\yanfanFlower.Common.csproj",
+              "RelativeDocumentMoniker": "yanfanFlower.Common\\yanfanFlower.Common.csproj",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\yanfanFlower.Common.csproj",
+              "RelativeToolTip": "yanfanFlower.Common\\yanfanFlower.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T04:09:37.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\DbContext.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Common\\DbContext.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Common\\DbContext.cs",
+              "RelativeToolTip": "yanfanFlower.Common\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:06:38.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "yanfanFlower.Model.csproj",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\yanfanFlower.Model.csproj",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\yanfanFlower.Model.csproj",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\yanfanFlower.Model.csproj",
+              "RelativeToolTip": "yanfanFlower.Model\\yanfanFlower.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T03:11:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "yanfanNet6WebAPi.csproj",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "RelativeToolTip": "yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T05:47:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\IFlowerService.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\IFlowerService.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\IFlowerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:49:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "yanfanNet6WebAPi",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "RelativeToolTip": "yanfanNet6WebAPi\\yanfanNet6WebAPi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T11:18:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\ApiResult.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\ApiResult.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\ApiResult.cs",
+              "RelativeToolTip": "yanfanFlower.Model\\ApiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:36:07.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\FlowerService.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\FlowerService.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\FlowerService.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\FlowerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABOwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:48:41.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Users.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\Entitys\\Users.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Users.cs",
+              "RelativeToolTip": "yanfanFlower.Model\\Entitys\\Users.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:33:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnumUserType.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Enum\\EnumUserType.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\Enum\\EnumUserType.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Enum\\EnumUserType.cs",
+              "RelativeToolTip": "yanfanFlower.Model\\Enum\\EnumUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:52:01.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Order.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\Entitys\\Order.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Order.cs",
+              "RelativeToolTip": "yanfanFlower.Model\\Entitys\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAABOwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:33:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\ImageModel.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\ImageModel.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\ImageModel.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\ImageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:37:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlowerRes.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Flower\\Dto\\FlowerRes.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\Flower\\Dto\\FlowerRes.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Flower\\Dto\\FlowerRes.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\Flower\\Dto\\FlowerRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:56:58.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperConfigs.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Config\\AutoMapperConfigs.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\Config\\AutoMapperConfigs.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Config\\AutoMapperConfigs.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\Config\\AutoMapperConfigs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:19:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Flowers.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Flowers.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Model\\Entitys\\Flowers.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Model\\Entitys\\Flowers.cs",
+              "RelativeToolTip": "yanfanFlower.Model\\Entitys\\Flowers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:33:29.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "yanfanFlower.Service\\Class1.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanFlower.Service\\Class1.cs",
+              "RelativeToolTip": "yanfanFlower.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:44:57.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Flower.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Flower.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Flower.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Flower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:45:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:19:35.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:18:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "yanfanNet6WebAPi\\WeatherForecast.cs",
+              "ToolTip": "D:\\net\\yanfanNet6WebAPi\\yanfanNet6WebAPi\\WeatherForecast.cs",
+              "RelativeToolTip": "yanfanNet6WebAPi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:06:10.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

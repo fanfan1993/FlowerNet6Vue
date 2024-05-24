@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\yanfanNet6WebAPi.props" />
+</Project>
